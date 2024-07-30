@@ -27,7 +27,7 @@ imagem
 Link para o circuito: https://tinyurl.com/2ca9t2gm
 
 ## Esquemático no Eagle
-esquemático
+![esquemático fonte](esquematico-fonte2.png)
 
 ## PCB no Eagle
 pcb
