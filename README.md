@@ -12,7 +12,8 @@ Este projeto é um sistema desenvolvido para a disciplina de Eletrônica para Co
 componentes
 
 ## Circuito no Falstad
-circuito
+
+[circuito](https://tinyurl.com/2ca9t2gm)
 
 ## Esquemático no Eagle
 esquemático
