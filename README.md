@@ -5,8 +5,8 @@ Rafael Perez Carmanhani - 15485420
 Este projeto é um sistema desenvolvido para a disciplina de Eletrônica para Computação na USP - São Carlos. O objetivo é montar uma fonte com tensão ajustável entre 3V e 12V, com capacidade de corrente de até 100mA.
 
 ## Circuito no Falstad
-![circuito](circuit-20240730-1837.png)
-Link para o circuito: https://tinyurl.com/2ca9t2gm
+![circuito](falstad_fonte.png)
+Link para o circuito: https://tinyurl.com/26egqr74
 
 ## Projeto no Tinkercad
 ![tinkercad fonte](tinkercad_fonte.png)
@@ -36,5 +36,4 @@ pcb
 vídeo
 
 ## Cálculos
-### Tensões do circuito
-
+![calculos fonte](calculos_fonte.jpg)
