@@ -27,13 +27,15 @@ Link para o circuito: https://tinyurl.com/29hzvqvx
 |            | **Total**            |                       | **67,60**       |
 
 ## Esquemático no Eagle
-![esquemático fonte](esquematico-fonte2.png)
+![esquemático fonte](esquematico0_fonte.png)
 
 ## PCB no Eagle
-pcb
+![pcb fonte](pcb0_fonte.png)
 
 ## Vídeo do Projeto Funcionando
-vídeo
+Você pode assistir ao vídeo do projeto nesse link:
+https://www.youtube.com/watch?v=seu_video](https://youtube.com/shorts/FOoTccETSzM?feature=share
+
 
 ## Cálculos
 ![calculos fonte](calculos_fonte.jpg)
