@@ -6,7 +6,7 @@ Este projeto é um sistema desenvolvido para a disciplina de Eletrônica para Co
 
 ## Circuito no Falstad
 ![circuito](falstad_fonte.png)
-Link para o circuito: https://tinyurl.com/26egqr74
+Link para o circuito: https://tinyurl.com/29hzvqvx
 
 ## Projeto no Tinkercad
 ![tinkercad fonte](tinkercad_fonte.png)
